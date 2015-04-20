@@ -1,5 +1,5 @@
 {
-  "name": "openstackci-sudoers",
+  "name": "openstackinfra-sudoers",
   "version": "0.0.1",
   "author": "OpenStack CI",
   "summary": "Puppet module for Sudoers",
