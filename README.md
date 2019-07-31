@@ -1,5 +1,3 @@
-# OpenStack Sudoers Module
+# This repo has moved to OpenDev
 
-## Overview
-
-Configures Sudoers.
+It can now be found at [https://opendev.org/opendev/puppet-sudoers](https://opendev.org/opendev/puppet-sudoers)
